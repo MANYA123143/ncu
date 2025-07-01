@@ -1,0 +1,170 @@
+/* General styles */
+
+font-family: Cursive;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+height: 100vh;
+
+background:darkslateblue;
+
+color: white;
+
+text-align: center;
+
+margin: 0;
+
+
+
+
+
+
+
+/* quote container */
+
+
+
+
+
+
+
+
+padding: 30px;
+
+
+
+
+
+.quote-container {
+
+background:rgba(168, 204, 255, 0.2);
+
+backdrop-filter: blue (10px);
+
+border-radius: 15px;
+
+box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+
+
+
+width:75%;
+
+
+
+}
+
+
+
+
+
+/* quote text */
+
+
+
+#quote (
+
+
+
+font-size: 1.5em;
+
+
+
+margin-bottom: 20px 0;
+/* quote text */
+
+
+
+#quote {
+
+
+
+font-size: 1.5em;
+
+
+
+margin-bottom: 20px 0;
+
+
+
+}
+
+
+
+
+
+/* author name */
+
+
+
+#author {
+
+
+
+font-size: 1.2em;
+
+
+
+font-style: italic;
+
+
+
+}
+
+
+
+
+
+
+
+/* button styles */
+
+button {
+
+
+
+width: 100%;
+
+
+
+padding: 12px 20px;
+
+
+
+font-size: 1.2em;
+
+
+
+background: #6C1D5F;
+
+
+
+color: white;
+
+
+border: none;
+
+
+
+border-radius: 5px;
+
+
+
+cursor: pointer;
+
+
+
+transition: 0.25;
+
+
+
+}
+
+
+
+
+
+button:hover {
